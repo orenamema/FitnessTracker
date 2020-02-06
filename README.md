@@ -45,6 +45,7 @@ const Workout = mongoose.model("Workout", WorkoutSchema);
 module.exports = Workout;
 
 ````
+Mongoose starts with a schema and each schema maps to a MongoDB collection and shapes the documents within that collection. Above is the schema that defines the type of exercise and the duration and below is the schema that defines the name, type, weight, sets, reps, and duration of exercise.
 
 ````Javascript
 const mongoose = require("mongoose");
