@@ -10,7 +10,6 @@ For this project I have created a workout tracker. The assignment will required 
 
 ## Technology Used
 
-* [MySQL](https://www.npmjs.com/package/mysql)
 * [Nodejs](https://nodejs.org/en/)
 * [Express](https://www.npmjs.com/package/express)
 * [MongoDB](https://www.mongodb.com/)
